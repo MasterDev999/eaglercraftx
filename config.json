@@ -1,0 +1,16 @@
+{
+    "websocket": {
+      "host": "0.0.0.0",
+      "port": 8080
+    },
+    "minecraft": {
+      "server": "ohio-hampton.gl.joinmc.link",
+      "port": 25565
+    },
+    "allowed_origins": [
+      "*"
+    ],
+    "server_name": "Eaglercraft Proxy Server",
+    "max_players": 100
+  }
+  
